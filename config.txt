@@ -1,4 +1,4 @@
-token=NTMyOTg1MDUzNzg2MDEzNzM2.D1tOgg.nWoMTKLYJorKUq7gyFTtkl67cis
+token=NTMyOTg4Njk3MjM5NDg2NDY0.D1tPDg.pAkQkktj3sJL1aQUQOL-9jCdVrk
 owner=507997411101114379
 prefix=1
 game=Present | 1play
